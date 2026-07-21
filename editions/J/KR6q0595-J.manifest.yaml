@@ -19,12 +19,12 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0595_000-J.yaml, hash: 'sha256:75fc20b40c090e86898a5dbbe5e957604e8234a2c29969d3357a14d260b0aa89'}
+  - {seq: 0, filename: KR6q0595_000-J.yaml, hash: 'sha256:e8c98b559a664d73e89eacb482c15cc19af965a0167a0ee68f264e0fb32523df'}
   - {seq: 1, filename: KR6q0595_001-J.yaml, hash: 'sha256:a93dc4d6ef0d463ee7d3df7a985c337213c91fae977f4e4559e01b4bcf8e91b3'}
   - {seq: 2, filename: KR6q0595_002-J.yaml, hash: 'sha256:416cacb8f072e413c5649d3bb33f860cd91fb9ea900bc38b3ed247d6453e780c'}
   - {seq: 3, filename: KR6q0595_003-J.yaml, hash: 'sha256:cc11a38aa96f74abea7cd779b8ec4e6f93009c50c257347fe6cff5633192461e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0595_000-J.markers.yaml, hash: 'sha256:02cc0531f5b1f5439fe18f7ebf61ab9df6a51d951ce1fcb8ac02f7f827a53ee9'}
+  - {seq: 0, role: markers, filename: assets/KR6q0595_000-J.markers.yaml, hash: 'sha256:d968ba580405af1d5e8cde3003feaad0646945e9ce6ac3dbd39b8b7e4f853d31'}
   - {seq: 1, role: markers, filename: assets/KR6q0595_001-J.markers.yaml, hash: 'sha256:7737305658349370651aa1a015db2e925e39eb8d8163e14801e6b67c44d76b2f'}
   - {seq: 2, role: markers, filename: assets/KR6q0595_002-J.markers.yaml, hash: 'sha256:2de9a035b305b5edd2dc00eb617bddbfee3ab919831deb2231e052a6bbbd9821'}
   - {seq: 3, role: markers, filename: assets/KR6q0595_003-J.markers.yaml, hash: 'sha256:f9584a9d8fd635b3b288d5c65b6d425244ef1ad1d42c8d0e4439a8f5654d4ff3'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0595_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0595_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 屠粹忠序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0595_J_000-mulu-3
     span:
-    - front
+    - body
     - 373
     - 373
   label: 曹廣端敘
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0595_J_000-mulu-4
     span:
-    - front
+    - body
     - 838
     - 838
   label: 目次
@@ -1079,4 +1079,4 @@ table_of_contents:
   label: 南嶽第三十二世
   type: mulu
   level: 1
-hash: sha256:8987ba6a0a85d8f027242ad30d019097fddbaaec8aecc9c3b6afa498b8c4454c
+hash: sha256:2d42bbcd1cf472b54917c874360f8e1e072bd60f29bb427127784ba1013e869e
